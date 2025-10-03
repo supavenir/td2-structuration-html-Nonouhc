@@ -1,1 +1,31 @@
+HTML : 
+<html lang="fr"> 
+<head>
+	<title>Coucou</title>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" href="main.css" />
+</head>
+<body>
+	<h1>bloc1-SLAM</h1>
+	<h2>Documents</h2> 
+<url><a href="https://github.com/supavenir/td2-structuration-html-Nonouhc/blob/main/README.md">Pour aller sur github </a></url>
 
+<link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+
+</body>
+</html> 
+
+
+
+
+CSS : 
+
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #f9f9f9;
+  margin: 20px;
+}
+
+h1 {
+	color: FF0000;
+}
