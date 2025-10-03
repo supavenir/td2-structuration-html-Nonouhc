@@ -1,4 +1,4 @@
-HTML : 
+index.html : 
 <html lang="fr"> 
 <head>
 	<title>Coucou</title>
@@ -20,6 +20,17 @@ HTML :
 
 CSS : 
 
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #f9f9f9;
+  margin: 20px;
+}
+
+h1 {
+	color: FF0000;
+}
+
+HTML:
 body {
   font-family: 'Roboto', sans-serif;
   background-color: #f9f9f9;
